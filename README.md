@@ -1,5 +1,5 @@
 # Warriors 
-This is and aplication for managing employee profiles
+This is an aplication for managing warriors profiles
 
 ### To run the test execute
 
