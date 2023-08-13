@@ -4,7 +4,7 @@ This is and aplication for managing employee profiles
 ### To run the test execute
 
     npm run test
-    
+
 ### To run the app execute
 
     npm run start
@@ -12,5 +12,3 @@ This is and aplication for managing employee profiles
 ### To package the application execute
 
     npm pack
-
-Application runs on port 3000
